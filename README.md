@@ -218,11 +218,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-## 👨‍💻 Author
-
-**Arin Verma** — [@arinverma75](https://github.com/arinverma75)
-
----
-
 <div align="center">
 </div>
