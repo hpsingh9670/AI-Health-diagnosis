@@ -1,5 +1,5 @@
-# Arin Verma 
-# IBM Batch 5
+# Harsh Pratap Singh 
+# IBM Batch 7
 # 🏥 MediAI – AI Healthcare & Emergency Assistance Platform
 
 <div align="center">
